@@ -1,7 +1,7 @@
 # T4
 根据Model层的edmx文件 来生成各个层所需要的代码。
 ##核心
-`` charp
+`` csharp
 <#
 CodeGenerationTools code = new CodeGenerationTools(this);
 MetadataLoader loader = new MetadataLoader(this);

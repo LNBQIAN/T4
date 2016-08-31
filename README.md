@@ -22,3 +22,4 @@ EntityFrameworkTemplateFileManager fileManager = EntityFrameworkTemplateFileMana
     <#=entity.Name#> //model的名称
 <#}#>
 ```
+得到model层实体名称后 生成各个层的代码 就很容易了。自己定义即可
